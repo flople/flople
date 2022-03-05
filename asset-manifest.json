@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/preflop-trainer-public/static/css/main.b38f4f69.css",
-    "main.js": "/preflop-trainer-public/static/js/main.94c1b83d.js",
+    "main.js": "/preflop-trainer-public/static/js/main.07e7dc14.js",
     "static/js/787.a268604c.chunk.js": "/preflop-trainer-public/static/js/787.a268604c.chunk.js",
     "static/media/KS.svg": "/preflop-trainer-public/static/media/KS.429c5cee6c3543169e210097e9c4c76c.svg",
     "static/media/KH.svg": "/preflop-trainer-public/static/media/KH.e9f1f2b228101687035fde5a8cc36fb0.svg",
@@ -58,11 +58,11 @@
     "index.html": "/preflop-trainer-public/index.html",
     "static/media/back.svg": "/preflop-trainer-public/static/media/back.eb0ed9a06c92d3a06147853ee0a7b883.svg",
     "main.b38f4f69.css.map": "/preflop-trainer-public/static/css/main.b38f4f69.css.map",
-    "main.94c1b83d.js.map": "/preflop-trainer-public/static/js/main.94c1b83d.js.map",
+    "main.07e7dc14.js.map": "/preflop-trainer-public/static/js/main.07e7dc14.js.map",
     "787.a268604c.chunk.js.map": "/preflop-trainer-public/static/js/787.a268604c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b38f4f69.css",
-    "static/js/main.94c1b83d.js"
+    "static/js/main.07e7dc14.js"
   ]
 }
