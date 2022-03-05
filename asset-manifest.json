@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/flople/static/css/main.b38f4f69.css",
-    "main.js": "/flople/static/js/main.1268095c.js",
+    "main.css": "/flople/static/css/main.f0329b8d.css",
+    "main.js": "/flople/static/js/main.51a10978.js",
     "static/js/787.a268604c.chunk.js": "/flople/static/js/787.a268604c.chunk.js",
     "static/media/KS.svg": "/flople/static/media/KS.429c5cee6c3543169e210097e9c4c76c.svg",
     "static/media/KH.svg": "/flople/static/media/KH.e9f1f2b228101687035fde5a8cc36fb0.svg",
@@ -57,12 +57,12 @@
     "static/media/AD.svg": "/flople/static/media/AD.843069d9fae8c6220060793ed3ffd555.svg",
     "index.html": "/flople/index.html",
     "static/media/back.svg": "/flople/static/media/back.eb0ed9a06c92d3a06147853ee0a7b883.svg",
-    "main.b38f4f69.css.map": "/flople/static/css/main.b38f4f69.css.map",
-    "main.1268095c.js.map": "/flople/static/js/main.1268095c.js.map",
+    "main.f0329b8d.css.map": "/flople/static/css/main.f0329b8d.css.map",
+    "main.51a10978.js.map": "/flople/static/js/main.51a10978.js.map",
     "787.a268604c.chunk.js.map": "/flople/static/js/787.a268604c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b38f4f69.css",
-    "static/js/main.1268095c.js"
+    "static/css/main.f0329b8d.css",
+    "static/js/main.51a10978.js"
   ]
 }
